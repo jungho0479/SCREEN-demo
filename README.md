@@ -15,6 +15,6 @@ The KV260 processes a 180 x 320 input video and generates a 720 x 1280 output vi
 
 ## Runtime Log
 
-![KV260 runtime log](./kv260_runtime_log.png)
+<img src="./kv260_runtime_log.png" alt="KV260 runtime log" width="431">
 
 The runtime log shown in the demo confirms that the PL is operating at 300 MHz.

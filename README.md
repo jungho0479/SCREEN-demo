@@ -2,7 +2,7 @@
 
 This repository contains a real-time 4x super-resolution demo running on the AMD Kria KV260.
 
-[View the demo video](./SCREEN_demo.mp4)
+[Download the demo video (original quality, 64.4 MB)](https://github.com/jungho0479/SCREEN-demo/releases/download/video-upload-test-20261109/SCREEN_demo.mp4)
 
 ## Demo Overview
 
